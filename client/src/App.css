@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #1e3685;
+}
+
+.fixed-right-bottom {
+  display: flex;
+  flex-direction: row;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  z-index: 1030;
+  margin: 0 1.5rem 1.5rem 0;
+  border-radius: 50%;
+}

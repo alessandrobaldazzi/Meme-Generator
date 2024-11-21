@@ -1,0 +1,76 @@
+.divview{
+    position: relative;
+    size: 100%;
+    text-align: center;
+    background-size: cover;
+}
+
+.h3{
+    word-wrap: break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.pos1{
+    position: absolute;
+    top: 16.67%;
+    bottom: 66.67%;
+    left: 5%;
+    right: 55%;
+}
+.pos2{
+    position: absolute;
+    top: 16.67%;
+    bottom: 66.67%;
+    right: 20%;
+    left: 20%;
+}
+.pos3{
+    position: absolute;
+    top: 16.67%;
+    bottom: 66.67%;
+    right: 5%;
+    left: 55%;
+}
+.pos4{
+    position: absolute;
+    top: 33.33% ; 
+    bottom: 33.33%;
+    left: 5%;
+    right: 55%;
+}
+.pos5{
+    position: absolute;
+    top: 33.33% ;
+    bottom: 33.33%;
+    right: 20%;
+    left: 20%;
+}
+.pos6{
+    position: absolute;
+    top: 33.33% ;
+    bottom: 33.33%;
+    right: 5%;
+    left: 55%;
+}
+.pos7{
+    position: absolute;
+    bottom: 16.67%;
+    top: 66.67%;
+    left: 5%;
+    right: 55%;
+}
+.pos8{
+    position: absolute;
+    bottom: 16.67%;
+    top: 66.67%;
+    right: 20%;
+    left: 20%;
+}
+.pos9{
+    position: absolute;
+    bottom: 16.67%;
+    top: 66.67%;
+    right: 5%;
+    left: 55%;
+}
